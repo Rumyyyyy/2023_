@@ -1,4 +1,0 @@
-cat
-banana
-apple
-lemon
